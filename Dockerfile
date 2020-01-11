@@ -1,4 +1,4 @@
-FROM docker.elastic.co/kibana/kibana:5.6.15
+FROM docker.elastic.co/kibana/kibana:5.6.11
 
 MAINTAINER tomas.hejatko@gmail.com
 
